@@ -53,6 +53,7 @@
 				C318A3AE2C22FB6F00A0717B /* Main.storyboard */,
 				C31386A92C2312F10099AAE2 /* Himanshu.storyboard */,
 				C3C66A192C23114D00F51A35 /* PrasiddhStoryBoard.storyboard */,
+				C31386A92C2312F10099AAE2 /* Himanshu.storyboard */,
 			);
 			path = UI;
 			sourceTree = "<group>";
@@ -63,6 +64,7 @@
 				C318A3AC2C22FB6F00A0717B /* ViewController.swift */,
 				C31386AB2C2312FD0099AAE2 /* HimanshuVC.swift */,
 				C3C66A1B2C2311FA00F51A35 /* PrasiddhVC.swift */,
+				C31386AB2C2312FD0099AAE2 /* HimanshuVC.swift */,
 			);
 			path = ViewController;
 			sourceTree = "<group>";

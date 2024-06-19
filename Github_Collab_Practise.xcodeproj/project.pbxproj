@@ -14,6 +14,8 @@
 		C318A3B32C22FB6F00A0717B /* Github_Collab_Practise.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = C318A3B12C22FB6F00A0717B /* Github_Collab_Practise.xcdatamodeld */; };
 		C318A3B52C22FB7100A0717B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C318A3B42C22FB7100A0717B /* Assets.xcassets */; };
 		C318A3B82C22FB7100A0717B /* Base in Resources */ = {isa = PBXBuildFile; fileRef = C318A3B72C22FB7100A0717B /* Base */; };
+		C3C66A1A2C23114D00F51A35 /* PrasiddhStoryBoard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C3C66A192C23114D00F51A35 /* PrasiddhStoryBoard.storyboard */; };
+		C3C66A1C2C2311FA00F51A35 /* PrasiddhVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = C3C66A1B2C2311FA00F51A35 /* PrasiddhVC.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +28,8 @@
 		C318A3B42C22FB7100A0717B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C318A3B72C22FB7100A0717B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		C318A3B92C22FB7100A0717B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C3C66A192C23114D00F51A35 /* PrasiddhStoryBoard.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = PrasiddhStoryBoard.storyboard; sourceTree = "<group>"; };
+		C3C66A1B2C2311FA00F51A35 /* PrasiddhVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PrasiddhVC.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -43,6 +47,7 @@
 			isa = PBXGroup;
 			children = (
 				C318A3AE2C22FB6F00A0717B /* Main.storyboard */,
+				C3C66A192C23114D00F51A35 /* PrasiddhStoryBoard.storyboard */,
 			);
 			path = UI;
 			sourceTree = "<group>";
@@ -51,6 +56,7 @@
 			isa = PBXGroup;
 			children = (
 				C318A3AC2C22FB6F00A0717B /* ViewController.swift */,
+				C3C66A1B2C2311FA00F51A35 /* PrasiddhVC.swift */,
 			);
 			path = ViewController;
 			sourceTree = "<group>";
@@ -144,6 +150,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C3C66A1A2C23114D00F51A35 /* PrasiddhStoryBoard.storyboard in Resources */,
 				C318A3B52C22FB7100A0717B /* Assets.xcassets in Resources */,
 				C318A3B82C22FB7100A0717B /* Base in Resources */,
 				C318A3B02C22FB6F00A0717B /* Base in Resources */,
@@ -161,6 +168,7 @@
 				C318A3AD2C22FB6F00A0717B /* ViewController.swift in Sources */,
 				C318A3A92C22FB6F00A0717B /* AppDelegate.swift in Sources */,
 				C318A3AB2C22FB6F00A0717B /* SceneDelegate.swift in Sources */,
+				C3C66A1C2C2311FA00F51A35 /* PrasiddhVC.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
